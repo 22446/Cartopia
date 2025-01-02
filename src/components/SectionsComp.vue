@@ -4,7 +4,7 @@
     <v-col col="12" class="d-lg-flex">
     <v-col cols="12" lg="6">
       <div class="bg-black">
-      <v-img src="../../public/images/ps5-slim-goedkope-playstation_large 1.png" class="d-flex align-end pa-7">
+      <v-img src="/images/ps5-slim-goedkope-playstation_large 1.png" class="d-flex align-end pa-7">
         <div>
           <h3>PlayStation 5</h3>
         <p>Black and White version of the PS5 coming out on sale.</p>
@@ -27,7 +27,7 @@
         </v-col>
         <v-col cols="8 ">
           
-          <v-img src="../../public/images/attractive-woman-wearing-hat-posing-black-background 1.png"></v-img>
+          <v-img src="/images/attractive-woman-wearing-hat-posing-black-background 1.png"></v-img>
         </v-col>
       </v-col>
     </div>
@@ -42,7 +42,7 @@
         </v-col>
         <v-col cols="8 ">
           
-          <v-img src="../../public/images/hero_endframe__cvklg0xk3w6e_large 2.png"></v-img>
+          <v-img src="/images/hero_endframe__cvklg0xk3w6e_large 2.png"></v-img>
         </v-col>
       </v-col>
     </div>

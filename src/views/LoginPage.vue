@@ -2,7 +2,7 @@
      <v-container>
         <v-row class="align-center">
             <v-col cols="12 " md="7">
-                <v-img src="../public/images/beatsnoop1.png" cover>
+                <v-img src="/images/beatsnoop1.png" cover>
                    
                 </v-img>
             </v-col>

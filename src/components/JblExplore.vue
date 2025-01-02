@@ -10,7 +10,7 @@
           </v-col>
           <v-col cols="6">
           
-              <v-img src="../../public/images/JBL_BOOMBOX_2_HERO_020_x1 (1) 1.png" cover></v-img>
+              <v-img src="/images/JBL_BOOMBOX_2_HERO_020_x1 (1) 1.png" cover></v-img>
            
           
           </v-col>
