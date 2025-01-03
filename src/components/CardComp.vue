@@ -1,6 +1,6 @@
 <template>
-  <v-card hover :to="`/productsdetails/${product._id}`">
-    <v-img :src="product.imageCover" cover height="300">
+  <v-card  hover :to="`/productsdetails/${product._id}`">
+    <v-img :src="product.imageCover" cover height="300" width="300">
       <div  class="d-flex justify-end" v-if ="loadingWish[product._id]">
         <v-progress-circular indeterminate></v-progress-circular>
 
