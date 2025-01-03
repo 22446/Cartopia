@@ -6,7 +6,7 @@
       <v-progress-linear indeterminate color="primary"></v-progress-linear>
     </div>
   <v-table
-      height="500px"
+    
       fixed-header
      
       

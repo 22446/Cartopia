@@ -16,7 +16,7 @@ export  const UseOrder =defineStore('order',{
         async Confirmorder(id)
         {
             this.loadingOrder=true
-            await axios.post(`https://ecommerce.routemisr.com/api/v1/orders/checkout-session/${id}?url=http://localhost:5173`,{shippingAddress:this.shippingAddress},
+            await axios.post(`https://ecommerce.routemisr.com/api/v1/orders/checkout-session/${id}?url=${import.meta.env.VITE_API_BASE_URL}`,{shippingAddress:this.shippingAddress},
                {headers:{token:localStorage.getItem('tokenUser')}}
             )
             .then((res)=>{
