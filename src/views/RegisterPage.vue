@@ -66,7 +66,7 @@
     class="my-3"
     type="error"
   ></v-alert></div>
-        <ButtonComp :loading="loading" width="100">
+        <ButtonComp :loading="loading" width="100" @handleClick="submit">
         <template #title>  Create an account</template>
         <template #icon>mdi-account-plus</template>
         </ButtonComp>
